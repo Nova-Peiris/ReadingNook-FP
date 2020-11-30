@@ -1,0 +1,27 @@
+#Home{background-image:url( "https://www.penguin.co.uk/content/dam/prh/articles/adults/2019/january/irish-fiction-2019.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;}
+
+#addabook{text-align: center;
+     color: black
+    }
+#addabookform{background-color: rgb(228, 228, 228);}
+hr{color: rgb(43, 43, 43);}
+#image{width: 450px;
+  }
+
+#footerRN{background-color: rgb(32, 32, 32);}
+#footerRN2{color: white;}
+#footermains{font-size: large;
+}
+#footersubs{font-size: medium;
+color: rgb(165, 165, 165);}
+#footersubs2{font-size: medium;
+  color: rgb(165, 165, 165);
+text-decoration: none;}
+#footerminor{font-size: small;
+  color: rgb(165, 165, 165);
+}
+#notice{color: red;}
+#info{ color: rgb(165, 165, 165);}
